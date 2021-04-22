@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/textlint-ja/textlint-rule-preset-jtf-style/issues"
   },
-  "version": "2.3.8",
+  "version": "2.3.9",
   "description": "JTF Style Guide for Translators Working into Japanese for textlint.",
   "main": "lib/index.js",
   "files": [
@@ -52,8 +52,7 @@
     "regexp.prototype.flags": "^1.1.1",
     "regx": "^1.0.4",
     "sorted-joyo-kanji": "^0.2.0",
-    "textlint-rule-helper": "^2.0.0",
-    "textlint-rule-prh": "^5.2.1"
+    "textlint-rule-helper": "^2.0.0"
   },
   "peerDependencies": {
     "textlint": ">= 5.6.0"
